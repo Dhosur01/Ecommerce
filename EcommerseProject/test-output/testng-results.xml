@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-29T19:11:22 IST" name="Suite" finished-at="2024-12-29T19:11:55 IST" duration-ms="33278">
+    <groups>
+    </groups>
+    <test started-at="2024-12-29T19:11:22 IST" name="Test" finished-at="2024-12-29T19:11:55 IST" duration-ms="33278">
+      <class name="com.demoblaze.tests.EcommerseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.tests.EcommerseTest@2a693f59]" started-at="2024-12-29T19:11:22 IST" name="setUp" finished-at="2024-12-29T19:11:27 IST" duration-ms="4899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEcommerseFlow()[pri:0, instance:com.demoblaze.tests.EcommerseTest@2a693f59]" started-at="2024-12-29T19:11:27 IST" name="testEcommerseFlow" finished-at="2024-12-29T19:11:55 IST" duration-ms="27921" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEcommerseFlow -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.tests.EcommerseTest@2a693f59]" started-at="2024-12-29T19:11:55 IST" name="tearDown" finished-at="2024-12-29T19:11:55 IST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoblaze.tests.EcommerseTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
